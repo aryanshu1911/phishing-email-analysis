@@ -1,4 +1,4 @@
-# Phishing Email Analysis Report
+# Phishing Email Analysis
 
 This repository contains an educational analysis of a phishing email designed to mimic a Google Workspace storage alert. The purpose of this project is to identify common phishing characteristics and techniques used by attackers to trick users.
 
