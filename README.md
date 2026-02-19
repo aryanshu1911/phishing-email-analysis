@@ -4,13 +4,13 @@ This repository contains an educational analysis of a phishing email designed to
 
 ## Contents
 
-- `Phishing_Email_Analysis_Report_Google_Workspace.docx`  
+- `Phish_Report.docx`  
   A detailed report outlining phishing indicators found in the email, including design elements, content analysis, and technical observations.
 
 - `google-workspace-urgent-google-workspace-storage-alert-modified.html`  
   The HTML template of the phishing email used for the analysis.
 
-- `screenshot.png`  
+- `view.png`  
   A screenshot showing how the phishing email appears when rendered in a web browser.
 
 ## Objectives
